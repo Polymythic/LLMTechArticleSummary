@@ -12,6 +12,7 @@ Using OpenAI to generate a summary of the tech world.  Program will hit a list o
 * User will require the inclusion of their OpenAPI key in a .env variable to be accessible and make OpenAI AI call
 * This program uses OpenAI's gpt-04-mini model
 * Program was created using uv (https://docs.astral.sh/uv/getting-started/installation/)
+* Developed in Cursor environment
 
 # Example Summary (2025-06-18) - This is for demo purposes ONLY, not to offer any commentary on anything. 
  Integrated Summary of Technology Websites
