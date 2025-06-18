@@ -10,7 +10,7 @@ Using OpenAI to generate a summary of the tech world.  Program will hit a list o
 * User will require the inclusion of their OpenAPI key in a .env variable to be accessible and make OpenAI AI call
 * Program was created using 
 
-# Example Summary (2025-06-18) - This is for demo purposes ONLY.  
+# Example Summary (2025-06-18) - This is for demo purposes ONLY, not to offer any commentary on anything. 
  Integrated Summary of Technology Websites
 
 This summary amalgamates insights from various respected technology news platforms, providing a comprehensive overview of current trends, announcements, and innovations within the tech industry.
