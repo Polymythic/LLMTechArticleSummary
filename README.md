@@ -5,6 +5,7 @@ Using OpenAI to generate a summary of the tech world.  Program will hit a list o
 * Apply basic understanding of system prompt
 * Apply basic understanding of user prompts
 * Have multiple LLM actions: fetch->LLM Summary->LLM Combined and Integrate Summary
+* Start building up library of patterns for personal assistant-type Agent
 
 # Environment elements
 * User will require the inclusion of their OpenAPI key in a .env variable to be accessible and make OpenAI AI call
