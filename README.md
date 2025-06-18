@@ -4,12 +4,14 @@ Using OpenAI to generate a summary of the tech world.  Program will hit a list o
 # Objectives:
 * Apply basic understanding of system prompt
 * Apply basic understanding of user prompts
+* Apply pattern to make API calls from code and pass the response to LLMs for actions
 * Have multiple LLM actions: fetch->LLM Summary->LLM Combined and Integrate Summary
 * Start building up library of patterns for personal assistant-type Agent
 
 # Environment elements
 * User will require the inclusion of their OpenAPI key in a .env variable to be accessible and make OpenAI AI call
-* Program was created using 
+* This program uses OpenAI's gpt-04-mini model
+* Program was created using uv (https://docs.astral.sh/uv/getting-started/installation/)
 
 # Example Summary (2025-06-18) - This is for demo purposes ONLY, not to offer any commentary on anything. 
  Integrated Summary of Technology Websites
